@@ -14,4 +14,10 @@ your friendly tech guy by day, maniac programmer by night
 - github: here
 
 <b>&#128200; Competitive Programming</b>
+
+
+
+
+
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/MRXz194?theme=unicorn&font=Maven%20Pro&ext=activity)
