@@ -5,17 +5,16 @@
 
 
 ### Hi there!
-your friendly tech guy by day, maniac programmer by night
+
 
 ### Contact:
 - discord: KZ#5198  MRX#5508
 - facebook: Dat Vu Tien
 - ig: mrxz_v
-- github: here
+- github:....
 
 # 💫About Me :
-- single
-- MRX is a pen name
+- I'm MRX 
 - student
 
 # 💻Tech Stack
