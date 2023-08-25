@@ -47,7 +47,7 @@
 
 
 
-[python_basic certificate.pdf](https://github.com/MRXz194/MRXz194/files/12439614/python_basic.certificate.pdf)
+
 
 
 
