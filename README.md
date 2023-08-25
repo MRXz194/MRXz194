@@ -50,7 +50,7 @@
 
 
 
-![000](https://github.com/MRXz194/MRXz194/assets/44870629/070fe681-4d36-4ec3-b8ab-e7cbd0429c44)
+
 
 
 
