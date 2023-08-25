@@ -42,7 +42,7 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/MRXz194?theme=unicorn&font=Maven%20Pro&ext=activity)
 
 
-
+[python_basic certificate.pdf](https://github.com/MRXz194/MRXz194/files/12439614/python_basic.certificate.pdf)
 
 
 
