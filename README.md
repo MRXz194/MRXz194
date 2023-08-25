@@ -44,7 +44,7 @@
 
 
 
-![000](https://github.com/MRXz194/MRXz194/assets/44870629/f5681fa5-f98d-40c6-9fdd-f0ca5ca293a0)
+
 
 
 
