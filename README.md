@@ -39,7 +39,7 @@
 
 
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/MRXz194?theme=unicorn&font=Maven%20Pro&ext=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/MRXz194?theme=unicorn&font=Maven%20Pro&ext=activity)                                       ![000](https://github.com/MRXz194/MRXz194/assets/44870629/c6c7b048-85ed-4bf9-b42d-1cbeb7ad9a8b)
 
 
 
