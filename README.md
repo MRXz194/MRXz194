@@ -41,7 +41,17 @@
 
 
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/MRXz194?theme=unicorn&font=Maven%20Pro&ext=activity)                                   ![](https://raw.githubusercontent.com/MRXz194/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
+![LeetCode Stats](https://leetcard.jacoblin.cool/MRXz194?theme=unicorn&font=Maven%20Pro&ext=activity)                                   
+
+
+
+
+
+
+
+
+
+![](https://raw.githubusercontent.com/MRXz194/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/MRXz194/cf-stats/main/output/light_card.svg)
 
                                                                                                                                         
