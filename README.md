@@ -40,8 +40,8 @@
 
 
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/MRXz194?theme=unicorn&font=Maven%20Pro&ext=activity)                            <img src="https://raw.githubusercontent.com/MRXz194/testing/92a297f5fa1acd8daaf46de3372cff7faa70997a/output/light_card.svg" />
-<img src="https://raw.githubusercontent.com/MRXz194/testing/9e1cbe6c7207a5170700d5b4461c8a1765f65dac/output/max_rating.svg" />
+![LeetCode Stats](https://leetcard.jacoblin.cool/MRXz194?theme=unicorn&font=Maven%20Pro&ext=activity)                            <img src="https://raw.githubusercontent.com/MRXz194/testing/5f22f1c109ef6db6a2423413c90cef741b6a6802/output/max_rating.svg" />
+<img src="https://raw.githubusercontent.com/MRXz194/testing/5f22f1c109ef6db6a2423413c90cef741b6a6802/output/light_card.svg" />
 
 
 
