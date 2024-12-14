@@ -5,13 +5,20 @@
 
 
 ### Hi there!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrxz194&label=Profile%20views&color=0e75b6&style=flat" alt="mrxz194" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrxz194" alt="mrxz194" /></a> </p>
+
+- 🔭 I’m currently studying on **USTH**
+
+- 🌱 I’m currently learning **Cyber sec**
 
 ### Contact:
 - discord: KZ#5198  MRX#5508
-- facebook: dat vu tien
-- ig: mrxz_v
-- github:....
+- facebook: 
+- ig: <a href="https://instagram.com/mrxz_v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mrxz_v" height="30" width="40" /></a>
+- Leetcode: <a href="https://www.leetcode.com/mrx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mrx" height="30" width="40" /></a>
+- github: :3
 
 # 💫About Me :
 - I'm MRX 
