@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning **Cyber sec**
 
 ### Contact:
-- Discord: mrxz05  MRX5508
+- Discord: mrxz05  mrx5508
 - Facebook: <a href="https://fb.com/mrxz194" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mrxz194" height="30" width="40" /></a>
 - Ig: <a href="https://instagram.com/mrxz_v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mrxz_v" height="30" width="40" /></a>
 - Leetcode: <a href="https://www.leetcode.com/mrx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mrx" height="30" width="40" /></a>
