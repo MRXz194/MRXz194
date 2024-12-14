@@ -24,6 +24,7 @@
 # 💫About Me :
 - I'm MRX 
 - student
+- I'm just a chill guy
 
 # 💻Tech Stack
 <h3 align="left">Languages and Tools:</h3>
@@ -58,8 +59,6 @@
 
 
                                                                                                                                                                
-
-
 
 
 
