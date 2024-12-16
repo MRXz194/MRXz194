@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrxz194" alt="mrxz194" /></a> </p>
 
-- 🔭 I’m currently studying on **USTH**
+- 🔭 I’m currently studying at **USTH**
 
 - 🌱 I’m currently learning **Cyber sec**
 
