@@ -79,8 +79,10 @@
 
 
 
-
-
+<div align="center">
+    
+  ![snake gif](https://github.com/MRXz194/MRXz194/blob/output/github-snake-dark.svg)
+</div>
 
 
 
