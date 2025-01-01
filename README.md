@@ -9,9 +9,9 @@
 ### Hi there!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrxz194&label=Profile%20views&color=0e75b6&style=flat" alt="mrxz194" /> </p>
 <img src="https://github-profile-trophy.vercel.app?username=mrxz194&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-<img align="right" src="https://camo.githubusercontent.com/8ab3dd9eac67ffcd7b092a3d79b26139380b93da77e58f87c68aceb5238ef835/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f4b4a66754c79595535696f6c5077625835702f67697068792e6769663f6369643d6563663035653437777a6b3435377335347131346333746c6a336e396c3937317137786b68753576337139766b683866267269643d67697068792e6769662663743d73" width="200" height="200">
+<img align="right" src="https://camo.githubusercontent.com/8ab3dd9eac67ffcd7b092a3d79b26139380b93da77e58f87c68aceb5238ef835/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f4b4a66754c79595535696f6c5077625835702f67697068792e6769663f6369643d6563663035653437777a6b3435377335347131346333746c6a336e396c3937317137786b68753576337139766b683866267269643d67697068792e6769662663743d73" width="250" height="250">
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="200" height="200">
+
 
 - 🔭 I’m currently studying at **USTH**
 
