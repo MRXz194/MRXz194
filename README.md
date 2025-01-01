@@ -88,18 +88,13 @@
 
 
 
-
-
 <b>&#128200; Competitive Programming</b>
 
 
 
 
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/MRXz194?theme=unicorn&font=Maven%20Pro&ext=activity)                            <img src="https://raw.githubusercontent.com/MRXz194/testing/0ccf931e148c9642d69d7dd70d3ea044f064a9f8/output/light_card.svg" />
-<img src="https://raw.githubusercontent.com/MRXz194/testing/0ccf931e148c9642d69d7dd70d3ea044f064a9f8/output/rating.svg" />
-
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/MRXz194?theme=unicorn&font=Maven%20Pro&ext=activity)      <img src="https://raw.githubusercontent.com/MRXz194/testing/0ccf931e148c9642d69d7dd70d3ea044f064a9f8/output/rating.svg" align="centre" /> <img src="https://raw.githubusercontent.com/MRXz194/testing/0ccf931e148c9642d69d7dd70d3ea044f064a9f8/output/light_card.svg" align="right" />                   
 
                                                                                                                                                                
 
