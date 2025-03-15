@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently studying at **USTH**
 
-- 🌱 I’m currently learning **Cyber sec**
+- 🌱 I’m currently learning **Cyber sec, Blockchain**
 
 ### Contact :
 - Discord: mrxz05  mrx5508
