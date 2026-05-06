@@ -8,7 +8,7 @@
 
 ### Hi there!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrxz194&label=Profile%20views&color=0e75b6&style=flat" alt="mrxz194" /> </p>
-<img src="https://github-profile-trophy.vercel.app?username=mrxz194&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+<img src="https://github-profile-trophy.vercel.app?username=mrxz194&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 <img align="right" 
 <img align="right" src="https://camo.githubusercontent.com/8ab3dd9eac67ffcd7b092a3d79b26139380b93da77e58f87c68aceb5238ef835/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f4b4a66754c79595535696f6c5077625835702f67697068792e6769663f6369643d6563663035653437777a6b3435377335347131346333746c6a336e396c3937317137786b68753576337139766b683866267269643d67697068792e6769662663743d73" width="250" height="250">
 
@@ -50,24 +50,34 @@
     <img src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" alt="Raspberry Pi">
 </div>
 <p align="center">
-                                                                                                                                                                                                                                                                
-<div align="center">
-  <!-- Hàng 1: 3 thẻ -->
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MRXz194&theme=tokyonight" height="165" />
-  <img src="https://streak-stats.demolab.com?user=MRXz194&theme=tokyonight&hide_border=false&border_radius=5" height="165" alt="streak graph" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MRXz194&theme=tokyonight" height="165" />
-</div>
+                                                                                                                                                                                                                            <table align="center">
+  <tr>
+    <td align="center" valign="top">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MRXz194&theme=tokyonight" height="145" />
+    </td>
+    <td align="center" valign="top">
+      <img src="https://streak-stats.demolab.com?user=MRXz194&theme=tokyonight&hide_border=false&border_radius=5" height="145" />
+    </td>
+    <td align="center" valign="top">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MRXz194&theme=tokyonight" height="145" />
+    </td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <td align="center" valign="top">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MRXz194&theme=tokyonight" height="145" />
+    </td>
+    <td align="center" valign="top">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MRXz194&theme=tokyonight&utcOffset=8" height="145" />
+    </td>
+  </tr>
+</table>
 
 <div align="center">
-  <!-- Hàng 2: 2 thẻ -->
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MRXz194&theme=tokyonight" height="165" alt="stats graph" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MRXz194&theme=tokyonight&utcOffset=8" height="165" />
-</div>
-
-<div align="center">
-  <!-- Hàng 3: 1 thẻ lớn -->
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MRXz194&theme=tokyonight" width="80%" />
-</div>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MRXz194&theme=tokyonight" width="900" />
+</div>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
