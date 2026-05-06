@@ -76,7 +76,7 @@
 </table>
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MRXz194&theme=tokyonight" width="900" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MRXz194&theme=tokyonight"  />
 </div>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
 
 ### ✍️Random Dev Quote
