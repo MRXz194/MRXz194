@@ -55,7 +55,7 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MRXz194&theme=tokyonight"  height="150" />
   <img src="https://streak-stats.demolab.com?user=mrxz194&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MRXz194&theme=tokyonight"height="150"  />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MRXz194&theme=tokyonight" height="150" alt="stats graph"  />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MRXz194&theme=tokyonight" height="150" alt="stats graph" height="150" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MRXz194&theme=tokyonight&utcOffset=8" height="150" />
   
      
