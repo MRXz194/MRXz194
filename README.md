@@ -51,19 +51,23 @@
 </div>
 <p align="center">
                                                                                                                                                                                                                                                                 
- <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MRXz194&theme=tokyonight"  height="150" />
-<img src="https://streak-stats.demolab.com?user=mrxz194&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MRXz194&theme=tokyonight"height="150"  />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MRXz194&theme=tokyonight" height="150" alt="stats graph" height="150" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MRXz194&theme=tokyonight&utcOffset=8" height="150" />
-  
-     
+<div align="center">
+  <!-- Hàng 1: 3 thẻ -->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MRXz194&theme=tokyonight" height="165" />
+  <img src="https://streak-stats.demolab.com?user=MRXz194&theme=tokyonight&hide_border=false&border_radius=5" height="165" alt="streak graph" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MRXz194&theme=tokyonight" height="165" />
 </div>
-    <div align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MRXz194&theme=tokyonight"   />
+
+<div align="center">
+  <!-- Hàng 2: 2 thẻ -->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MRXz194&theme=tokyonight" height="165" alt="stats graph" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MRXz194&theme=tokyonight&utcOffset=8" height="165" />
 </div>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+
+<div align="center">
+  <!-- Hàng 3: 1 thẻ lớn -->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MRXz194&theme=tokyonight" width="80%" />
+</div>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
