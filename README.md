@@ -25,7 +25,7 @@
 - Github:  :3
 - Dev: <a href="https://dev.to/mrxz194" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.mrxz194" height="30" width="40" /></a>
 
-# 💫About Me :
+# 💫About Me:
 - I'm MRX 
 - student
 - I'm just a chill guy :3
