@@ -28,7 +28,7 @@
 # 💫About Me:
 - I'm MRX 
 - student
-- I'm just a chill guy :3
+- I'm just a chill meow :3
 
 # 💻Tech Stack / Languages and Tools :
 <div align="center">
